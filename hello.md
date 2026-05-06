@@ -4172,9 +4172,10 @@ Esto es una prueba en local
 - GhostWareJSX
 - crisgio24
 - lakylu81
-
 - ZER0TW002H
 - linosdevs
 - ruiz-22
 - emidarraga
-- ErickDev
+- robberto-carlo
+- andurbal
+- ericksuper8000-source
