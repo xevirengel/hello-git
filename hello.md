@@ -3281,7 +3281,7 @@ Esto es una prueba en local
 - juniordevp22
 - jabaloc
 - OmarMariscal
-- jesusdominguez2004
+- jdomingu19
 - Delafu7
 - MangelDeveloper
 - CruzballDev
